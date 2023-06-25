@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Video Games",
+    "hobbies": [
+      "League of Legends",
+      "Rimworld",
+      "Overwatch",
+      "Sea of Thieves",
+      "Counter Strike GO"
+    ]
+  },
+  {
+    "name": "Sports",
+    "hobbies": [
+      "Football",
+      "Bodybuilding"
+    ]
+  },
+  {
+    "name": "Movies and TV Shows",
+    "hobbies": [
+      "Zombies",
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Survival"
+    ]
+  },
+  {
+    "name": "Programming",
+    "hobbies": [
+      "React",
+      "Express",
+      "Typescript",
+      "NodeJS"
+    ]
+  }
+]

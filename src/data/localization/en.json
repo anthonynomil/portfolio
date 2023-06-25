@@ -1,0 +1,55 @@
+{
+  "pages": {
+    "home": {
+      "typo1": "Hello, I am",
+      "typo2": "LIMON Anthony",
+      "typo3": "Full Stack Developer"
+    },
+    "contact": {
+      "errors": {
+        "email": {
+          "email": "Please enter a valid email address",
+          "required": "Please enter an email address"
+        },
+        "subject": "Please enter a subject",
+        "message": "Please enter a message"
+      },
+      "snackbar": {
+        "success": "Your message has been sent",
+        "error": "An error has occurred, please try again later"
+      },
+      "typo": {
+        "title": "Send me an e-mail !"
+      },
+      "form": {
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Message",
+        "send": "Send Mail"
+      }
+    },
+    "hobbies": {
+      "typo" : {
+        "title": "About me",
+        "aboutMe": {
+          "email": "Email :",
+          "phone": "Phone :",
+          "location": "Location :",
+          "birthdate": "Date of birth :"
+        }
+      }
+    },
+    "projects" : {
+      "items": {
+        "my_meetic": {
+          "name": "My Meetic",
+          "description": [
+            "This project's goal was to teach us how to create a search system, a login and a register front and back.",
+            "Duration : 2 weeks",
+            "Technologies used : PHP, Javascript (+ jQuery), HTML, CSS ( + SASS)"
+          ]
+        }
+      }
+    }
+  }
+}
