@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.31d6cfe0.css",
-    "main.js": "/portfolio/static/js/main.ef544a81.js",
+    "main.js": "/portfolio/static/js/main.2e3188a4.js",
     "static/media/snapchat-camera.png": "/portfolio/static/media/snapchat-camera.d11a89db19a9aba21d6f.png",
     "static/media/spotify-home.png": "/portfolio/static/media/spotify-home.3329f85f757ebea4ff23.png",
     "static/media/spotify-artist-list.png": "/portfolio/static/media/spotify-artist-list.97c2873cd1b8edcc06bd.png",
@@ -15,10 +15,10 @@
     "static/media/spotify-search-result.png": "/portfolio/static/media/spotify-search-result.37f7bff118e17ea7eb32.png",
     "static/media/snapchat-home.png": "/portfolio/static/media/snapchat-home.6749f4eae4da10009c61.png",
     "index.html": "/portfolio/index.html",
-    "main.ef544a81.js.map": "/portfolio/static/js/main.ef544a81.js.map"
+    "main.2e3188a4.js.map": "/portfolio/static/js/main.2e3188a4.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.ef544a81.js"
+    "static/js/main.2e3188a4.js"
   ]
 }
