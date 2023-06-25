@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.31d6cfe0.css",
+    "main.js": "/portfolio/static/js/main.ef544a81.js",
+    "static/media/snapchat-camera.png": "/portfolio/static/media/snapchat-camera.d11a89db19a9aba21d6f.png",
+    "static/media/spotify-home.png": "/portfolio/static/media/spotify-home.3329f85f757ebea4ff23.png",
+    "static/media/spotify-artist-list.png": "/portfolio/static/media/spotify-artist-list.97c2873cd1b8edcc06bd.png",
+    "static/media/meetic-home.png": "/portfolio/static/media/meetic-home.1244754ab07bc07baf78.png",
+    "static/media/snapchat-profile.png": "/portfolio/static/media/snapchat-profile.222f2d683d091140aaa0.png",
+    "static/media/spotify-album-tracks.png": "/portfolio/static/media/spotify-album-tracks.eab518553f8ecc5f77c2.png",
+    "static/media/meetic-search.png": "/portfolio/static/media/meetic-search.b9aa7f17fd62d4525e05.png",
+    "static/media/avatar.png": "/portfolio/static/media/avatar.eec18741d8a6b12b8bb1.png",
+    "static/media/snapchat-auth.png": "/portfolio/static/media/snapchat-auth.fd2b99dc14bda2a28ecf.png",
+    "static/media/meetic-login.png": "/portfolio/static/media/meetic-login.bad60f032407bb7a73da.png",
+    "static/media/spotify-search-result.png": "/portfolio/static/media/spotify-search-result.37f7bff118e17ea7eb32.png",
+    "static/media/snapchat-home.png": "/portfolio/static/media/snapchat-home.6749f4eae4da10009c61.png",
+    "index.html": "/portfolio/index.html",
+    "main.ef544a81.js.map": "/portfolio/static/js/main.ef544a81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ef544a81.js"
+  ]
+}
