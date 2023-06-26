@@ -1,7 +1,7 @@
 {
   "name": "my_portfolio",
   "version": "0.1.0",
-  "homepage": "{Amplify-URL}/#/",
+  "homepage": "https://master.d255tta4rue525.amplifyapp.com/#/",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
